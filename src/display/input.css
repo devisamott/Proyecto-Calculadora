@@ -1,6 +1,7 @@
 .input{
     background-color: rgb(255, 241, 241);
     height: 100px;
-    font-size: 70px;
+    font-size: 40px;
+    font-family: "Architects Daughter";
     border: 2px solid pink;
 }

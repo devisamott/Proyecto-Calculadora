@@ -1,0 +1,6 @@
+.App{
+    background-image: url(https://img.freepik.com/vector-gratis/fondo-acuarela-rosa-pintado-mano-detallado_1048-17039.jpg);
+    background-size: cover; /* Ajusta el tamaño de la imagen para cubrir todo el área del display */
+    background-position: center; 
+    overflow: hidden;
+}

@@ -1,6 +1,4 @@
 .container {
-  font-family: "Architects Daughter", cursive;
-
     display: flex;
     justify-content: center;
     align-items: center;
@@ -26,7 +24,9 @@
 .buttons button {
     width: 90px;
     height: 90px;
-    font-size: 1.5em;
+    font-size: 2.2em;
+    font-family: "Architects Daughter";
+
     margin: 8px;
     background-color: rgb(252, 178, 203);
     border: none;
